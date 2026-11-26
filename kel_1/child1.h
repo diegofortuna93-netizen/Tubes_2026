@@ -14,6 +14,7 @@ struct elm_child1 {
 };
 
 struct List_child1 {
+adr_child1 first
 };
 
 void create_list_child1(List_child1 &L);
